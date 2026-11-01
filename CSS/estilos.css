@@ -16,6 +16,7 @@
   margin: 20px;
   display: flex;
   flex-direction: column;
+  shape-outside: margin-box;
   
 }
 .experiencia-div  {
