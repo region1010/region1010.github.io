@@ -26,6 +26,8 @@
   padding: 0.5rem;
   display: flex;
   flex-direction: column;
+  margin: 5px;
+  shape-outside: margin-box;
   
 }
 .educacion-div  {
