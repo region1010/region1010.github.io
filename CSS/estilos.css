@@ -13,6 +13,8 @@
   border: 10px solid black;
   background-color: #ff0;
   padding: 0.5rem;
+  height: 80px;
+  width: 80px;
   display: flex;
   flex-direction: column;
   
