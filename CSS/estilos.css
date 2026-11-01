@@ -1,10 +1,10 @@
 .main-div  {
   
-  border: 10px ridge #f00;
-  background-color: #ff0;
-  padding: 0.5rem;
-  display: flex;
-  flex-direction: column;
+  border:           10px ridge #f00;
+  background-color:  #ff0;
+  padding:          0.5rem;
+  display:          flex;
+  flex-direction:    column;
   
 }
 
@@ -35,9 +35,9 @@
   border: 10px ridge #f00;
   background-color: #ff0;
   padding: 0.5rem;
+  margin: 20px;
   display: flex;
   flex-direction: column;
-  margin: 20px;
   shape-outside: margin-box;
   
 }
@@ -46,9 +46,9 @@
   border: 10px ridge #f00;
   background-color: #ff0;
   padding: 0.5rem;
+  margin: 20px;
   display: flex;
   flex-direction: column;
-  margin: 20px;
   shape-outside: margin-box;
   
 }
@@ -57,9 +57,9 @@
   border: 10px ridge #f00;
   background-color: #ff0;
   padding: 0.5rem;
+  margin: 20px;
   display: flex;
   flex-direction: column;
-  Margin: 20px;
   shape-outside: margin-box;
   
 }
@@ -68,9 +68,9 @@
   border: 10px ridge #f00;
   background-color: #ff0;
   padding: 0.5rem;
-  display: flex;
-  flex-direction: column
   margin: 20px;
+  display: flex;
+  flex-direction: column; 
   shape-outside: margin-box;
 
   
