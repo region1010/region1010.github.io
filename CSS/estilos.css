@@ -37,6 +37,8 @@
   padding: 0.5rem;
   display: flex;
   flex-direction: column;
+  margin: 20px;
+  shape-outside: margin-box;
   
 }
 .proyectos-div  {
@@ -46,6 +48,8 @@
   padding: 0.5rem;
   display: flex;
   flex-direction: column;
+  margin: 20px;
+  shape-outside: margin-box;
   
 }
 .lenguajes-div  {
@@ -55,6 +59,8 @@
   padding: 0.5rem;
   display: flex;
   flex-direction: column;
+  Margin: 20px;
+  shape-outside: margin-box;
   
 }
 .aptitudes-div  {
@@ -63,7 +69,10 @@
   background-color: #ff0;
   padding: 0.5rem;
   display: flex;
-  flex-direction: column;
+  flex-direction: column
+  margin: 20px;
+  shape-outside: margin-box;
+
   
 }
 .estilo-h1  {
