@@ -24,9 +24,9 @@
   border: 10px ridge #f00;
   background-color: #ff0;
   padding: 0.5rem;
+  margin: 15px;
   display: flex;
   flex-direction: column;
-  margin: 5px;
   shape-outside: margin-box;
   
 }
