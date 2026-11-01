@@ -24,7 +24,7 @@
   border: 10px ridge #f00;
   background-color: #ff0;
   padding: 0.5rem;
-  margin: 15px;
+  margin: 20px;
   display: flex;
   flex-direction: column;
   shape-outside: margin-box;
