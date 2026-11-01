@@ -1,13 +1,22 @@
+.estilo-h1  {
+
+  justify-content:  center;
+  
+}
 .estilo-body  {
+  
   padding:          5px;
   background-color:  green;
   color:            white;
+  
 }
 
 .estilo-footer  {
+  
   display:          flex;
   justify-content:  center;
   padding:          5px;
   background-color:  blue;
   color:            white;
+  
 }
